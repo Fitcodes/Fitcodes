@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sanjay @Fitcoder
+- 👋 Hi, I’m Sanjay Joshi @Fitcoder
 - 👀 Till now in my 3 years of engineering life I have worked most of the time on my problem-solving skills using Data Structures and Algorithms and have always
 -  tried to implement them in some real life problems which is also reflected in my projects. Welcome to my projects portal. 
 - 🌱 I’m currently learning Javascript and also working each and every day on sharpenning my problem solving using DSA ...
